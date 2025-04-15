@@ -1,1 +1,1 @@
-# This is GitHub repository for photometric analysis of the Algol eclipsing binary system.
+# This is a GitHub repository for photometric analysis of the Algol eclipsing binary system.
